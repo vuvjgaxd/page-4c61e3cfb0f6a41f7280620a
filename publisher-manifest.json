@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ef657bce998cea2ab8d4bcf0",
+  "owner": "vuvjgaxd",
+  "repo": "page-4c61e3cfb0f6a41f7280620a",
+  "title": "掌中世界",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4c61e3cfb0f6a41f7280620a",
+      "a": "掌中世界",
+      "b": "",
+      "entity": "掌中世界",
+      "brand": "掌中世界",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8ae9c07f71e61fd3fe4491906c392c1363c7065832d0a535ebaf2796a9f4c551",
+      "content": {
+        "keyword1": "掌中世界",
+        "keyword2": "",
+        "primary_entity": "掌中世界",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "掌中世界提供机场订阅与 VPN 网络加速服务，覆盖多端客户端下载、线路节点与套餐说明，帮助用户稳定访问跨境应用与流媒体。",
+          "AI_DESCRIPTION": "掌中世界提供机场订阅与 VPN 网络加速服务，覆盖多端客户端下载、线路节点与套餐说明，帮助用户稳定访问跨境应用与流媒体。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*:before,*:after{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F1E8;color:#1A2E26;font-size:16px;line-height:1.7}a{color:#1F5C45;text-decoration:underline}a:hover{color:#143D2E}img,svg{max-width:100%}header{background:#143D2E;color:#F6F1E8;padding:14px 16px;position:sticky;top:0}header .bar{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}header .logo{font-weight:700;font-size:18px;color:#F6F1E8;text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#E8F3EC;text-decoration:none;font-size:14px}main{max-width:1080px;margin:0 auto;padding:20px 16px 48px}h1{font-size:28px;line-height:1.3;margin:8px 0 12px;color:#143D2E}h2{font-size:22px;margin:28px 0 12px;color:#143D2E;border-left:4px solid #1F5C45;padding-left:10px}h3{font-size:18px;margin:18px 0 8px;color:#1F5C45}.lede{font-size:17px;color:#2A3F36;margin:0 0 16px}.grid{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px;background:#FFFcf7;border:1px solid #E2D8C6;border-radius:10px;padding:16px}.muted{color:#4A5C54}.hero{display:flex;flex-wrap:wrap;gap:16px;margin:8px 0 8px}.hero .intro,.hero .aside{flex:1 1 300px}.aside{background:#EDE6D9;border-radius:10px;padding:16px}.plans{display:flex;flex-wrap:wrap;gap:14px;align-items:stretch}.plan{flex:1 1 250px;background:#FFFcf7;border:1px solid #D9CEB8;border-radius:12px;padding:18px;display:flex;flex-direction:column}.plan.featured{background:#1F5C45;color:#F6F1E8;border-color:#143D2E}.plan.featured h3,.plan.featured .price,.plan.featured .annual{color:#F6F1E8}.badge{display:inline-block;background:#C4A35A;color:#1A2E26;font-size:12px;font-weight:700;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:26px;font-weight:700;margin:6px 0;color:#143D2E}.annual{font-size:14px;color:#4A5C54;margin-bottom:10px}.plan ul{margin:0 0 14px;padding-left:18px;flex:1}.cta{display:inline-block;background:#1F5C45;color:#F6F1E8;text-decoration:none;padding:8px 14px;border-radius:8px;font-weight:600}.plan.featured .cta{background:#F6F1E8;color:#143D2E}ol.steps{padding-left:20px}ol.steps li{margin-bottom:8px}table{width:100%;border-collapse:collapse;background:#FFFcf7;font-size:14px}th,td{border:1px solid #D9CEB8;padding:8px 10px;text-align:left;vertical-align:top}th{background:#EDE6D9;color:#143D2E}details{background:#FFFcf7;border:1px solid #D9CEB8;border-radius:8px;padding:10px 12px;margin:0 0 10px}summary{font-weight:700;color:#143D2E}details p{margin:8px 0 0;color:#2A3F36}.ad{background:#EDE6D9;border:1px dashed #1F5C45;border-radius:8px;padding:14px;margin:16px 0}.links a{margin-right:12px;display:inline-block;margin-bottom:6px}footer{background:#143D2E;color:#D7E8DE;padding:24px 16px;font-size:14px}footer .wrap{max-width:1080px;margin:0 auto}footer a{color:#E8F3EC}footer h2{color:#F6F1E8;border-left-color:#C4A35A;font-size:16px;margin-top:8px}@media(max-width:640px){h1{font-size:24px}h2{font-size:20px}.price{font-size:22px}nav a{font-size:13px}}</style><header><div class=\"bar\"><a class=\"logo\" href=\"#top\">掌中世界</a><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#download\">下载</a><a href=\"#faq\">问答</a><a href=\"#sitemap\">地图</a></nav></div></header><main id=\"top\"><h1>掌中世界</h1><p class=\"lede\">掌中世界官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载指引。页面集中说明套餐、线路用途与导入步骤，便于对照选择后再前往官方下载入口完成配置。</p><section class=\"hero\" id=\"intro\"><div class=\"intro\"><h2>品牌简介</h2><p>掌中世界面向跨境办公、学术资料查阅、海外应用调试与流媒体观看，提供可订阅的网络加速服务。订阅可在常见代理客户端中导入，按套餐额度使用流量，并在节点池中切换线路。</p><p>服务定位是稳定、可预期的加速器，而不是一次性试用链接。官方身份以本站域名为准：购买、续费与客户端说明只通过掌中世界官网发布，避免第三方转发造成订阅泄露。</p><p class=\"muted\">核心能力包括：多地区节点调度、流媒体解锁策略、游戏向 IPLC 线路（旗舰版及以上）以及企业路由定制（团队版）。流量按月重置，设备数按套餐并发限制。</p></div><aside class=\"aside\"><h3>官网要点</h3><p>品牌名称：掌中世界</p><p>服务类型：机场订阅 / VPN 网络加速</p><p>官方网站：本页即为掌中世界官网信息入口</p><p>官方下载：见「客户端下载」章节，仅提供正版客户端安装指引，不附带来路不明安装包。</p><p>客服通道：工单优先；旗舰版提供 7x24 优先处理，团队版配备专属客户经理。</p></aside></section><section id=\"plans\"><h2>套餐对比</h2><p>以下三档为当前固定方案，价格与权益以本表为准。年付按十二个月一次性结算，便于长期使用机场订阅。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#download\">前往官方下载</a></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#download\">前往官方下载</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#download\">前往官方下载</a></article></div><h3>对照一览</h3>项目基础版旗舰版团队版月流量100GB300GB1000GB并发设备3 台5 台20 台流媒体基础解锁全节点原生解锁全节点原生解锁线路普通节点池含 IPLC 游戏优化VIP 高带宽 + 定制路由支持常规工单7x24 优先工单专属客户经理</section><section id=\"scenes\"><h2>使用场景</h2><div class=\"grid\"><div class=\"col\"><h3>跨境办公与会议</h3><p>远程协作、云文档与海外代码仓库在高峰时段容易抖动。掌中世界将办公常用域名走稳定中转，旗舰版可用 IPLC 降低往返时延，适合日常会议与推送。</p></div><div class=\"col\"><h3>流媒体与资讯</h3><p>基础版覆盖常见资讯站点与基础流媒体；旗舰版与团队版强调原生解锁，减少因公共出口被识别而导致的播放失败。</p></div><div class=\"col\"><h3>学习研究</h3><p>查阅论文库、公开课与开发者文档时，可把学术域名加入分流。按流量计费，避免全设备全局代理浪费额度。</p></div><div class=\"col\"><h3>团队共用</h3><p>工作室或小团队需要统一出口与审计时，团队版提供 20 台并发、高带宽节点和定制路由，由客户经理协助划分规则。</p></div></div></section><section id=\"nodes\"><h2>线路与节点说明</h2><p>节点按地区与用途分组，名称中会标注一般用途，例如浏览、流媒体或游戏。普通线路适合网页与轻量应用；IPLC 专线面向对延迟敏感的对战与远程桌面。实际可用列表以订阅更新后客户端内显示为准。</p><p>掌中世界会定期轮换入口以维持可用性，不在页面公开实时 IP。用户只需更新订阅，不必手工填写服务器地址。若某条线路超时，请切换同区域备用节点，而不是反复重连同一入口。</p></section><section id=\"guide\"><h2>操作说明</h2><p>完成购买后，在用户中心复制订阅链接，再按设备选择客户端。以下流程适用于 Clash 系、Shadowrocket、Stash、Surge 等常见软件。</p><ol class=\"steps\"><li>打开掌中世界官网用户中心，确认套餐生效并复制订阅地址，不要把链接发到公开聊天。</li><li>在本页「客户端下载」核对系统版本，安装对应官方客户端，拒绝来源不明的修改版。</li><li>客户端中选择「从 URL 导入」或「订阅」，粘贴链接并更新节点。</li><li>开启规则分流：国内直连、跨境走代理，避免所有流量都计入套餐额度。</li><li>先测延迟再连接；流媒体请优先选择标注解锁的节点，游戏请使用 IPLC 分组（旗舰版及以上）。</li><li>若提示流量用尽，等待月度重置或升级套餐；设备超限时先在旧设备断开。</li></ol></section><section id=\"download\"><h2>客户端下载</h2><p>掌中世界不捆绑第三方安装包。请前往各系统原厂或开源项目页面获取客户端，再用本站订阅导入。下列名称为常用搭配，安装完成后回到用户中心粘贴订阅即可。</p><div class=\"grid\"><div class=\"col\"><h3>桌面端</h3><p>Windows / macOS / Linux 可使用 Clash Meta 内核图形客户端，或 Surge for Mac。导入后开启系统代理或 TUN 模式。官方下载入口以软件作者发布渠道为准，本站仅提供订阅。</p></div><div class=\"col\"><h3>移动端</h3><p>Android 可使用支持订阅的 Clash 系应用；iOS 可使用 Shadowrocket 或 Stash。通过商店购买正版后导入掌中世界订阅。同一账号请遵守套餐设备上限。</p></div></div><p><a class=\"cta\" href=\"#plans\">先对照套餐再配置客户端</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>掌中世界是什么服务？</summary><p>掌中世界是提供机场订阅的网络加速品牌，用户按月或按年获取流量额度，在自有客户端中连接节点，用于跨境访问、办公协同与流媒体观看。本站是官方网站，用于说明套餐、操作与下载路径。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先在用户中心复制订阅链接，再按系统安装 Clash Meta、Shadowrocket、Stash 或 Surge 等正版客户端，选择从 URL 更新。不要使用来路不明的「一键包」。导入成功后更新一次节点列表即可连接。</p></details><details><summary>基础版、旗舰版和团队版该如何选？</summary><p>个人轻度浏览选基础版（100GB / 3 台）。需要原生流媒体、游戏向 IPLC 与优先工单选旗舰版（300GB / 5 台）。多人共用、要高带宽与定制路由选团队版（1000GB / 20 台）。年付价格已在各套餐中标明。</p></details><details><summary>流量、设备数和重置规则是怎样的？</summary><p>流量按自然月或套餐周期重置，仅统计走代理的流量。同时在线设备不得超过套餐上限。分享订阅给无关人员可能导致被异常检测后限制登录，请自行保管链接。</p></details><details><summary>是否支持流媒体与游戏加速？</summary><p>基础版提供基础流媒体解锁。旗舰版与团队版强调全节点原生解锁，并在旗舰版加入 IPLC 游戏加速优化。播放失败时请更换解锁分组，并关闭可能干扰的本地规则。</p></details><details><summary>怎样确认自己访问的是掌中世界官网？</summary><p>认准本站品牌名称「掌中世界」与官方网站地址。任何要求你把订阅发到私人聊天、或诱导安装未知证书的渠道都不是官方流程。下载客户端请走软件原厂渠道，本站只提供订阅与说明。</p></details></section><section class=\"ad\" id=\"ads\"><h2>合作与公告</h2><p>掌中世界官网可投放文字合作信息，主题限于网络工具评测、跨境办公培训与客户端教程站点。广告为纯文本，不跳转外部资源文件。洽谈请通过工单注明「广告合作」。</p><p><a href=\"#links\">查看友情链接</a> · <a href=\"#sitemap\">查看网站地图</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#top\">首页</a> · <a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐对比</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#nodes\">线路节点</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#ads\">公告</a> · <a href=\"#links\">友情链接</a></p></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#\">跨境办公手册</a><a href=\"#\">分流规则入门</a><a href=\"#\">客户端配置笔记</a><a href=\"#\">流媒体解锁常识</a><a href=\"#\">网络延迟测量</a></p></section><p>掌中世界官方网站 · 机场订阅与 VPN 梯子网络加速说明 · 客户端请使用正版渠道完成官方下载</p><p>© 掌中世界 保留对套餐与线路调整的说明更新权。本页为静态信息页，购买与续费在用户中心完成。</p></div></footer>",
+          "hash": "ea7fe24c611bd9e8ec6c547745c07e6097305343fa1de8b3cfc0bd3ff0ce30b6",
+          "seo": {
+            "title": "掌中世界官网｜VPN 梯子网络加速与客户端下载",
+            "keywords": "掌中世界,掌中世界机场,掌中世界VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,官方网站",
+            "description": "掌中世界提供机场订阅与 VPN 网络加速服务，覆盖多端客户端下载、线路节点与套餐说明，帮助用户稳定访问跨境应用与流媒体。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "69yv09.cn",
+    "host": "p-07b957ee4c.69yv09.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "69yv09.cn",
+      "url": "https://69yv09.cn/",
+      "label": "ABCloud",
+      "apex": "69yv09.cn",
+      "kind": null,
+      "identity": "jwkhnv/page-0f3671dd76afb8785481b0eb"
+    },
+    {
+      "host": "falemonqn.com",
+      "url": "https://falemonqn.com/",
+      "label": "掌中世界",
+      "apex": "falemonqn.com",
+      "kind": null,
+      "identity": "hjvpjsxb/page-f4b546d92f83538f522ecfa3"
+    },
+    {
+      "host": "heyue004.cn",
+      "url": "https://heyue004.cn/",
+      "label": "掌中世界",
+      "apex": "heyue004.cn",
+      "kind": null,
+      "identity": "ndafgcqa/page-6c744d855bbeb188298098d1"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e6772a65faf79643f1d7527c3f7ec10daef8428d50c2262723439f7910d989cc",
+    "sitemap.xml": "48fdd86f9a564a2a06c2e78772e039d600c4de66198cdc7ea6dc5b389bea90ee",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9249c634935f2c04023d4270d5fb5490cfc8d724463b5480c03bd6f857aab613",
+    "robots.txt": "68b2262006d1f8660e419d419acd4d26176e777a08bc8518c039b9a219a46cbd",
+    "3d9d4dedc3a195fd4b4178530b60df5d.txt": "576e0b02abcd9b4ad8219aae7b2eb7cc53a94f1a7ad9bbd807fdcec0a7a93930"
+  },
+  "revision": "1dba0f54f0602e7b3f1a2ebc662f695501610b6d1b64aa3e3654c01ac5060c1b"
+}
